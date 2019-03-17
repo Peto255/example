@@ -1,3 +1,3 @@
 # Example
 
-This is setup to show a local Git repository.
+This is setup to show a local Git repository...
